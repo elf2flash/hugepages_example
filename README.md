@@ -13,5 +13,5 @@ hugepagesz=1g hugepages=64 default_hugepagesz=1g
 
 4. Reboot
 
-5. dmesg logs thet allocate 13 pages:
+5. dmesg logs that allocate 13 pages:
 HugeTLB: allocating 64 of page size 1 GB failed.  Only allocated 13 hugepages.
